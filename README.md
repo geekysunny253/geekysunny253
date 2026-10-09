@@ -48,7 +48,7 @@ An e-commerce prototype built as a frontend web development project.
 ### Interactive Text-Adventure Engine
 An AI storytelling project designed around player choices, persistent world state, and inventory management.
 
-**Focus:** Python · LLMs · SQLite · Streamlit or Gradio
+**Focus:** Python · LLMs · SQLite · Gradio
 
 ## Current Focus
 
